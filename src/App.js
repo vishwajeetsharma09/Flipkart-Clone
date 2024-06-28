@@ -126,7 +126,7 @@ function App() {
               <p>Fashion</p>
             </div>
             <div>
-              <i class="material-icons icon2">keyboard_arrow_down</i>
+              <i class="material-icons icon2"></i>
             </div>
           </div>
           <div>
@@ -147,7 +147,7 @@ function App() {
               <p>Electronics</p>
             </div>
             <div>
-              <i class="material-icons">keyboard_arrow_down</i>
+              <i class="material-icons"></i>
             </div>
           </div>
           <div>
@@ -214,7 +214,7 @@ function App() {
               <p>Beauty,Toys & More</p>
             </div>
             <div>
-              <i class="material-icons">keyboard_arrow_down</i>
+              <i class="material-icons"></i>
             </div>
           </div>
           <div>
